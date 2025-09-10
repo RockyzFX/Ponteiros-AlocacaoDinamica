@@ -1,19 +1,13 @@
-# **Exemplificando `Alocação Dinâmica` com `Ponteiros`**
+Adicionei novas funcionalidades ao programa de análise de vetor dinâmico em C:
 
-## **Objetivo**  
-Perceber e praticar a implementação e manipulação de estruturas de dados usando **Ponteiros**.  
+Maior número: Função para encontrar o maior valor do vetor.
 
----
+Menor número: Função para encontrar o menor valor do vetor.
 
-## **Enunciado**  
+Múltiplos de 5: Função para contar e exibir os múltiplos de 5 presentes no vetor.
 
-Clone este respositório e realize as seguintes tarefas:  
+Números pares: Função para contar e exibir os números pares do vetor.
 
-1. **Adicione** uma nova funcionalidade (nova função) para encontrar o maior número do conjunto de dados;
-2. **Adicione** uma nova funcionalidade (nova função) para encontrar o menor número do conjunto de dados;
-3. **Adicione** uma nova funcionalidade (nova função) para exibir os números pares do conjunto de dados;
-4. **Adicione** uma nova funcionalidade (nova função) para exibir os números ímpares do conjunto de dados;
-5. Use sua criatividade e **adicione** uma nova funcionalidade (nova função) com uma tarefa específica;
-6. Adicione ao seu repositório um relatório em PDF explicando seu código.
+Números ímpares: Função para contar e exibir os números ímpares do vetor.
 
-A implementação deve manter o padrão de uso dos ponteiros já usado no repositório.
+Essas alterações ampliam a análise dos dados gerados, tornando o programa mais completo para estatísticas simples sobre o vetor alocado dinamicamente. Também mantive a estrutura modular, facilitando futuras expansões.
